@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/ThemeOverlay.AppCompat"
+    android:paddingTop="@dimen/margin_6"
+    app:logo="@drawable/app_logo"
+    android:paddingRight="@dimen/margin_48">
+
+</androidx.appcompat.widget.Toolbar>
